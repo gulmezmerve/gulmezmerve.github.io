@@ -84,8 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Researcher"
   location         : "Stockholm"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Ericsson"
   googlescholar    : "https://scholar.google.com/citations?user=TGwZ57oAAAAJ&hl=tr"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
