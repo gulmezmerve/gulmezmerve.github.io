@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Merve Turhan"
-  avatar           : "profile.png"
+  avatar           : "IMG_6A1FB93544AA-1.jpeg"
   bio              : "Researcher"
   location         : "Stockholm"
   employer         : "Ericsson"
@@ -95,14 +95,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "merveturhan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
