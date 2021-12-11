@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in EEE, Istanbul Technical University, 2016
-* M.S. in Telecommunication Enginering Istanbul Technical University, 2020
 * Ph.D in Computer Science, KU Leuven, 2024 (expected)
+* M.S. in Telecommunication Enginering Istanbul Technical University, 2020
+* B.S. in EEE, Istanbul Technical University, 2016
 
 Work experience
 ======
 * 2019-2020: Research Intern
-  * EPFL
+  * Telecommunication Circuit Lab, EPFL
 * 2017-2019: Embedded Software Design Engineer
-  * Netas Company
+  * GNNS Receiver Project, [Netas Company](https://netas.com.tr/?lang=en)
  
 
 Publications
