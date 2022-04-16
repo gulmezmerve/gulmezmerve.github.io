@@ -1,9 +1,11 @@
 ---
-title: "THE TRUST MODEL FOR MULTI-TENANT 5G TELECOM SYSTEMS RUNNING VIRTUALIZED MULTI-COMPONENT SERVICES"
+title: "DEEP LEARNING AIDED DATA DETECTION FOR FUTURE WIRELESS COMMUNICATION SYSTEMS"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-date: 2021/06/06
-venue: 5GhOST Deliverable
-paperurl: ''
+permalink: /publication/2015-10-01-paper-title-number-4
+date: 2021/01/06
+venue: Istanbul Technical University / master's Thesis
+paperurl: 'https://www.researchgate.net/publication/346399445_DEEP_LEARNING_AIDED_DATA_DETECTION_FOR_FUTURE_WIRELESS_COMMUNICATION_SYSTEMS'
 ---
-[Download paper here](https://5ghosts.eu/publications/deliverables/D1_3.pdf)
+
+
+[Download paper here](https://www.researchgate.net/publication/346399445_DEEP_LEARNING_AIDED_DATA_DETECTION_FOR_FUTURE_WIRELESS_COMMUNICATION_SYSTEMS)
