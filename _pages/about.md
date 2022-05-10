@@ -25,6 +25,6 @@ Here is the first result of my work
 
 ["Unlimited Lives: Secure In-Process Rollback with Isolated Domains"](https://arxiv.org/pdf/2205.03205.pdf)
 
-Feel free to reach for any feedback! 
+Feel free to reach me for any feedback! 
 
 
