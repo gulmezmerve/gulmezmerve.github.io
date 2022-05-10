@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning-Aided Spatial Multiplexing with Index Modulation"
+title: "Deep Learning-aided Spatial Multiplexing with Index Modulation"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 date: 2020/11/24
