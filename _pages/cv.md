@@ -23,6 +23,11 @@ Work experience
 * 2017-2019: Embedded Software Design Engineer
   * GNSS Receiver Project, [Netas Company](https://netas.com.tr/?lang=en)
  
+Awards
+======
+* IEEE Comsoc Turkiye Master Thesis Award
+* TUBITAK Master Degree Scholarship
+
 
 Publications
 ======
