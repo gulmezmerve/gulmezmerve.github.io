@@ -25,8 +25,8 @@ Work experience
  
 Awards
 ======
-* IEEE Comsoc Turkiye Master Thesis Award
-* TUBITAK Master Degree Scholarship
+* IEEE Comsoc Turkey Master Thesis Award
+* TUBITAK Master of Degree Scholarship
 
 
 Publications
