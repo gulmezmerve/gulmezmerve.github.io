@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Merve Turhan"
+title: "Merve GÜLMEZ"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
