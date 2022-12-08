@@ -11,9 +11,9 @@ title                    : "Merve Turhan"
 title_separator          : "-"
 name                     : &name "Merve"
 description              : &description "Researcher & PhD Student"
-url                      : https://merveturhan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://glmzmrve.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "merveturhan.github.io"
+repository               : "glmzmrve.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Merve Turhan"
+  name             : "Merve GULMEZ"
   avatar           : "IMG_6A1FB93544AA-1.jpeg"
   bio              : "Researcher"
   location         : "Stockholm"
