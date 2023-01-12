@@ -25,6 +25,8 @@ Here is the first result of my work
 
 ["Unlimited Lives: Secure In-Process Rollback with Isolated Domains"](https://arxiv.org/pdf/2205.03205.pdf)
 
-Feel free to reach me for any feedbacks! 
+I am a publicity chair of [SLIM workshop](https://silm-workshop.github.io/). Please check the [call of paper](https://silm-workshop.github.io/cfp/)! 
+
+
 
 
