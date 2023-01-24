@@ -27,6 +27,11 @@ Here is the first result of my work
 
 I am a publicity chair of [SLIM workshop](https://silm-workshop.github.io/). Please check the [call of paper](https://silm-workshop.github.io/cfp/)! 
 
+Small activies I am joining/partipating: 
+
+* [PrivacyCamp, 2023](https://privacycamp.eu/workshop-the-climate-crisis-is-a-key-digital-rights-issue/).
+* [Summer School: SECURITY, PRIVACY & CORRECTNESS IN THE IOT, 2022, Graz University](https://securityweek.at/2022/)
+
 
 
 
