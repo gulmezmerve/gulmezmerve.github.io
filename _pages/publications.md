@@ -11,12 +11,16 @@ author_profile: true
 
 Papers
 ======
-{% include base_path %}
+* [Unlimited Lives: Secure In-Process Rollback with Isolated Domains](https://arxiv.org/pdf/2205.03205.pdf)
+* [The Trust Model for Multi-Tenant 5G Telecom Systems Running Virtualized Multi-Component Services](https://5ghosts.eu/publications/deliverables/D1_3.pdf)
+* [Deep Learning-Aided Data Detection for Future Wireless Communication Systems](../files/master_thesis.pdf) Master Thesis
+* [Deep Learning-Aided Spatial Multiplexing with Index Modulation](https://arxiv.org/pdf/2202.02856.pdf)
+* [Deep Convolutional Learning-Aided Detector for Generalized Frequency Division Multiplexing with Index Modulation](https://arxiv.org/pdf/2202.02876.pdf)
+* [Deep Learning-Aided Generalized Frequency Division Multiplexing](https://www.researchgate.net/publication/333783086_Deep_Learning-Aided_Generalized_Frequency_Division_Multiplexing)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
 
 Posters
 ======
+* [Unlimited Lives: Secure In Process Rollback with Isolated Domains](../files/SDROB_Poster-E-5CG2171BCR.pdf)
 
