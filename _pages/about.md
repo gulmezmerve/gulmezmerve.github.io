@@ -29,7 +29,9 @@ I am a publicity chair of [SLIM workshop](https://silm-workshop.github.io/). Ple
 
 Small activies I am joining/partipating: 
 
-* [PrivacyCamp, 2023](https://privacycamp.eu/workshop-the-climate-crisis-is-a-key-digital-rights-issue/).
+* I will be presenting my work ""
+* I joined [PrivacyCamp, 2023](https://privacycamp.eu/workshop-the-climate-crisis-is-a-key-digital-rights-issue/). So nice experience! 
+* [Ericsson Research Day](https://securityweek.at/2022/)
 * [Summer School: SECURITY, PRIVACY & CORRECTNESS IN THE IOT, 2022, Graz University](https://securityweek.at/2022/)
 
 
