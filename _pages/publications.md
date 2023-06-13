@@ -11,8 +11,13 @@ author_profile: true
 
 Papers
 ======
+-> PhD Journey 
+* [Exploring the Environmental Benefits of In-Process Isolation for Software Resilience](https://arxiv.org/pdf/2306.02131.pdf)
 * [Unlimited Lives: Secure In-Process Rollback with Isolated Domains](https://arxiv.org/pdf/2205.03205.pdf)
+* [The Climate Crisis is a Digital Rights Crisis: Exploring the Civil-Society Framing of Two Intersecting Disasters](https://limits.pubpub.org/pub/8544yai8/release/1)
 * [The Trust Model for Multi-Tenant 5G Telecom Systems Running Virtualized Multi-Component Services](https://5ghosts.eu/publications/deliverables/D1_3.pdf)
+
+-> Master Thesis work 
 * [Deep Learning-Aided Data Detection for Future Wireless Communication Systems](../files/master_thesis.pdf) Master Thesis
 * [Deep Learning-Aided Spatial Multiplexing with Index Modulation](https://arxiv.org/pdf/2202.02856.pdf)
 * [Deep Convolutional Learning-Aided Detector for Generalized Frequency Division Multiplexing with Index Modulation](https://arxiv.org/pdf/2202.02876.pdf)
@@ -24,3 +29,6 @@ Posters
 ======
 * [Unlimited Lives: Secure In Process Rollback with Isolated Domains](../files/SDROB_Poster-E-5CG2171BCR.pdf)
 
+Open Source Project
+======
+*  [secure-rewind-and-discard](https://secure-rewind-and-discard.github.io/)
