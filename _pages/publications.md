@@ -12,12 +12,19 @@ author_profile: true
 Papers
 ======
 -> PhD Journey 
-* [Exploring the Environmental Benefits of In-Process Isolation for Software Resilience](https://arxiv.org/pdf/2306.02131.pdf)
-* [Unlimited Lives: Secure In-Process Rollback with Isolated Domains](https://arxiv.org/pdf/2205.03205.pdf)
+* [Friend or Foe Inside? Exploring In-Process Isolation
+to Maintain Memory Safety for Unsafe Rust](https://arxiv.org/pdf/2306.08127.pdf)
+* [Exploring the Environmental Benefits of In-Process Isolation for Software Resilience](https://arxiv.org/pdf/2306.02131.pdf) 
+    
+    <!-- <button type="button">BibTex</button> -->
+
+* [Rewind & Discard: Improving Software Resilience
+using Isolated Domains](../files/2023-dsn-sdrad.pdf).
+   The technical report is available at [arXiv:2205.03205 [cs.CR]](https://arxiv.org/pdf/2205.03205.pdf)  
 * [The Climate Crisis is a Digital Rights Crisis: Exploring the Civil-Society Framing of Two Intersecting Disasters](https://limits.pubpub.org/pub/8544yai8/release/1)
 * [The Trust Model for Multi-Tenant 5G Telecom Systems Running Virtualized Multi-Component Services](https://5ghosts.eu/publications/deliverables/D1_3.pdf)
 
--> Master Thesis work 
+-> Master Degree Journey 
 * [Deep Learning-Aided Data Detection for Future Wireless Communication Systems](../files/master_thesis.pdf) Master Thesis
 * [Deep Learning-Aided Spatial Multiplexing with Index Modulation](https://arxiv.org/pdf/2202.02856.pdf)
 * [Deep Convolutional Learning-Aided Detector for Generalized Frequency Division Multiplexing with Index Modulation](https://arxiv.org/pdf/2202.02876.pdf)
