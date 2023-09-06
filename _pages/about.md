@@ -14,12 +14,12 @@ I am a security researcher at Ericsson and PhD Student at KU Leuven.
 
 I am a part of [5GhOST](https://5ghosts.eu/) project funded by the EU involving [KU Leuven](https://www.kuleuven.be/kuleuven/) and [Ericsson](https://www.ericsson.com/en). 
 
-I am interested in system security, improving software resillence and environmental sustainability.  
+I am interested in system security, improving software resilience, and environmental sustainability.  
 
 
 2023
-  * [Friend or Foe Inside? Exploring In-Process Isolation to Maintain Memory Safety for Unsafe Rust](https://arxiv.org/pdf/2306.08127.pdf) preprint is available. 
-  * I will be presenting my work "Rewind & Discard : Improving Software Resillence using Isolated Domain", at [IEEE DSN 2023](https://dsn2023.dei.uc.pt/). The technical report is available at [here](https://arxiv.org/pdf/2205.03205.pdf). The source code is available at [here](https://secure-rewind-and-discard.github.io/) *#softwareresillence*
+  * [Friend or Foe Inside? Exploring In-Process Isolation to Maintain Memory Safety for Unsafe Rust](https://arxiv.org/pdf/2306.08127.pdf) preprint is available, and it was accepted at [IEEE Sec-Dev-2023 conference](https://secdev.ieee.org/2023/home). 
+  * I will be presenting my work "Rewind & Discard: Improving Software Resillence using Isolated Domain", at [IEEE DSN 2023](https://dsn2023.dei.uc.pt/). The technical report is available at [here](https://arxiv.org/pdf/2205.03205.pdf). The source code is available at [here](https://secure-rewind-and-discard.github.io/) *#softwareresillence*
 
   * I will be presenting my work "[Exploring the Environmental Benefits of In-Process
   Isolation for Software Resilience](https://arxiv.org/pdf/2306.02131.pdf)", at [IEEE DSN 2023](https://dsn2023.dei.uc.pt/) in June, 2023. The arxiv version is available at [here](https://arxiv.org/pdf/2306.02131.pdf) *#softwareresillence*
