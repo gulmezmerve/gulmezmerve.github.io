@@ -12,8 +12,10 @@ author_profile: true
 Papers
 ======
 -> PhD Journey 
+* [Mon CHÈRI ♡ Adapting Capability Hardware Enhanced RISC with Conditional Capabilities](https://arxiv.org/pdf/2407.08663)
+* [System Call Interposition Without Compromise](https://gulmezmerve.github.io/files/2024-lazypoline.pdf) 
 * [Friend or Foe Inside? Exploring In-Process Isolation
-to Maintain Memory Safety for Unsafe Rust](https://arxiv.org/pdf/2306.08127.pdf)
+to Maintain Memory Safety for Unsafe Rust](https://arxiv.org/pdf/2306.08127.pdf) 
 * [Exploring the Environmental Benefits of In-Process Isolation for Software Resilience](https://arxiv.org/pdf/2306.02131.pdf) 
     
     <!-- <button type="button">BibTex</button> -->
@@ -39,3 +41,4 @@ Posters
 Open Source Project
 ======
 *  [secure-rewind-and-discard](https://secure-rewind-and-discard.github.io/)
+*  [lazypoline](https://github.com/lazypoline)
