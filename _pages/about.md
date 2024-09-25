@@ -18,6 +18,10 @@ I am interested in system security, improving software resilience, and environme
 
 2024 
 
+
+  * At Ericsson Research, we have assessed the suitability of CHERI for telecommunication systems that require high performance and fault tolerance. To learn more about our findings, check out our [blog post](https://www.ericsson.com/en/blog/2024/9/memory-safety-in-telecommunications-with-cheri)
+  
+ 
   * I have been working on CHERI for about a year. It has been a long and educational project for me. I worked on extending the qemu simulator, llvm compiler, Flute core, and CheriFreertos. The preprint for "[Mon CHÈRI ♡ Adapting Capability Hardware Enhanced RISC with Conditional Capabilities](https://arxiv.org/pdf/2407.08663)" is now available here. 
 
   * I hosted Sacha Ruchlejmer from Phelma University as a master's thesis student. He worked on adapting the secure and rewind discard project to the Arm Morello Board at Ericsson Research. He successfully defended his thesis and graduated from Phelma University; Congrats, Sacha 🎉 You can read his thesis -> [Secure Rewind and Discard on Arm Morello](https://secure-rewind-and-discard.github.io/files/Master_Thesis___Secure_Rewind_on_Discard_on_ARM_Morello.pdf).
