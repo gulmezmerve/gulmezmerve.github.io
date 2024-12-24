@@ -10,19 +10,23 @@ redirect_from:
 
 
 
-I am a security researcher at Ericsson and PhD Student at KU Leuven. 
+I am a security researcher at Ericsson and PhD candidate at KU Leuven. 
 
-I am a part of [5GhOST](https://5ghosts.eu/) project funded by the EU involving [KU Leuven](https://www.kuleuven.be/kuleuven/) and [Ericsson](https://www.ericsson.com/en). 
 
-I am interested in system security, improving software resilience, and environmental sustainability.  
+I am interested in memory-safety hardening and improving software resilience. 
+
+Always happy to pitch my ideas for master thesis students and PhD students. Contact me if you need help! 
+
 
 2024 
+
+  * We have been working on measuring the effectiveness of x86-64 shadow stacks. Our findings indicate that the stack layout can vary across different compilers, and the layout of stack canaries can impact on the effectiveness of the shadow stack. To learn more about our findings, check out our preprint -> [Do we still need canaries in the coal mine? Measuring shadow stack effectiveness in countering stack smashing](https://arxiv.org/pdf/2412.16343). 
 
 
   * At Ericsson Research, we have assessed the suitability of CHERI for telecommunication systems that require high performance and fault tolerance. To learn more about our findings, check out our [blog post](https://www.ericsson.com/en/blog/2024/9/memory-safety-in-telecommunications-with-cheri)
   
  
-  * I have been working on CHERI for about a year. It has been a long and educational project for me. I worked on extending the qemu simulator, llvm compiler, Flute core, and CheriFreertos. The preprint for "[Mon CHÈRI ♡ Adapting Capability Hardware Enhanced RISC with Conditional Capabilities](https://arxiv.org/pdf/2407.08663)" is now available here. 
+  * I have been working on CHERI for about a year. It has been a long and educational project for me. I worked on extending the qemu simulator, llvm compiler, Flute core, and CheriFreeRTOS. The preprint for "[Mon CHÈRI ♡ Adapting Capability Hardware Enhanced RISC with Conditional Capabilities](https://arxiv.org/pdf/2407.08663)" is now available here. 
 
   * I hosted Sacha Ruchlejmer from Phelma University as a master's thesis student. He worked on adapting the secure and rewind discard project to the Arm Morello Board at Ericsson Research. He successfully defended his thesis and graduated from Phelma University; Congrats, Sacha 🎉 You can read his thesis -> [Secure Rewind and Discard on Arm Morello](https://secure-rewind-and-discard.github.io/files/Master_Thesis___Secure_Rewind_on_Discard_on_ARM_Morello.pdf).
 
