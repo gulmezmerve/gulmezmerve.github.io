@@ -18,6 +18,9 @@ I am interested in memory-safety hardening and improving software resilience.
 Always happy to pitch my ideas for master thesis students and PhD students. Contact me if you need help! 
 
 2025
+ * Good news good news :) Mon CHERI paper got accepted to IEEE S&P. Time for
+   travelling to San Francisco! You can read
+   the earliest version [here](https://arxiv.org/pdf/2407.08663). 
 
  * Happily joined the DSbD event in London with a use case on memory safety for telecommunicatiom  systems. Have a look at [our colorful poster](../files/poster/dsbd.pdf)
  
