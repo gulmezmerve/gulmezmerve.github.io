@@ -12,7 +12,10 @@ author_profile: true
 Papers
 ======
 -> PhD Journey 
-* [Mon CHÈRI ♡ Adapting Capability Hardware Enhanced RISC with Conditional Capabilities](https://arxiv.org/pdf/2407.08663)
+
+* [BLACKOUT: Data-Oblivious Computation with Blinded Capabilities](https://arxiv.org/abs/2504.14654)
+* [Mon CHÉRI: Mitigating Uninitialized Memory Access with Conditional Capabilities](https://arxiv.org/abs/2407.08663)
+* [Do we still need canaries in the coal mine? Measuring shadow stack effectiveness in countering stack smashing](https://www.arxiv.org/pdf/2412.16343)
 * [System Call Interposition Without Compromise](https://gulmezmerve.github.io/files/2024-lazypoline.pdf) 
 * [Friend or Foe Inside? Exploring In-Process Isolation
 to Maintain Memory Safety for Unsafe Rust](https://arxiv.org/pdf/2306.08127.pdf) 

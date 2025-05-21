@@ -18,6 +18,13 @@ I am interested in memory-safety hardening and improving software resilience.
 Always happy to pitch my ideas for master thesis students and PhD students. Contact me if you need help! 
 
 2025
+ * Enjoyed so much at IEEE S&P'25. Discussing all the different security aspects
+   made me happy! Impressed me how many people are working on CHERI
+   architecture.  So Mon CHERI ❤️ can be found as an [author version of
+   paper](../files/author_version/2025_mon_cheri_author_version.pdf),
+   [poster](../files/poster/mon_cheri_poster_SP2025.pdf)
+  and [presentation](../files/presentation/Gulmez_moncheri_SP.pptx)
+
  * Good news good news :) Mon CHERI paper got accepted to IEEE S&P. Time for
    travelling to San Francisco! You can read
    the earliest version [here](https://arxiv.org/pdf/2407.08663). 
