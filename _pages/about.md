@@ -29,13 +29,12 @@ I  believe we created strong synergy with our co-authors.
       BLACKOUT](https://blog.ssg.aalto.fi/2025/10/making-software-both-memory-safe-and.html)
     
   * I supervised Ruben Sturm during his summer internship at Ericsson Research.
-    It was a productive summer, and although the paper is still in progress, I’m
-    happy to share that he started his PhD at DistriNet!
+    It was a productive summer, and although the paper is still in progress!
   
  * Happy to give a webinar at hardwaresecurity.io, so the talk is [here](
    https://www.youtube.com/watch?v=bbWczqMnRHA)
 
- * Our paper "Do You Need Stack Canaries?" was presented at ARES 2025.
+ * Our paper "Do We Still Need Stack Canaries?" was presented at ARES 2025.
   Thanks to JT for handling the presentation, and great job Hugo!
   You can read the [author version of the
   paper](../files/author_version/2025_ares-coalmine.pdf).
@@ -63,7 +62,7 @@ I  believe we created strong synergy with our co-authors.
   * At Ericsson Research, we have assessed the suitability of CHERI for telecommunication systems that require high performance and fault tolerance. To learn more about our findings, check out our [blog post](https://www.ericsson.com/en/blog/2024/9/memory-safety-in-telecommunications-with-cheri)
   
  
-  * I have been working on CHERI for about a year. It has been a long and educational project for me. I worked on extending the qemu simulator, llvm compiler, Flute core, and CheriFreeRTOS. The preprint for "[Mon CHÈRI ♡ Adapting Capability Hardware Enhanced RISC with Conditional Capabilities](https://arxiv.org/pdf/2407.08663)" is now available here. 
+  * I have been working on CHERI for about a year. It has been a long and educational project for me. I worked on extending the qemu simulator, llvm compiler, Flute core, and CheriFreeRTOS. The preprint for "[Mon CHÉRI: Mitigating Uninitialized Memory Access with Conditional Capabilities](https://arxiv.org/pdf/2407.08663)" is now available here. 
 
   * I hosted Sacha Ruchlejmer from Phelma University as a master's thesis student. He worked on adapting the secure and rewind discard project to the Arm Morello Board at Ericsson Research. He successfully defended his thesis and graduated from Phelma University; Congrats, Sacha 🎉 You can read his thesis -> [Secure Rewind and Discard on Arm Morello](https://secure-rewind-and-discard.github.io/files/Master_Thesis___Secure_Rewind_on_Discard_on_ARM_Morello.pdf).
 
