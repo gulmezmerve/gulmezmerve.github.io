@@ -10,14 +10,37 @@ redirect_from:
 
 
 
-I am a security researcher at Ericsson and PhD candidate at KU Leuven. 
+I am a security researcher at Ericsson and a PhD candidate at KU Leuven.
+My research focuses on memory-safety hardening and improving software resilience.
+I'm always happy to pitch ideas for master's theses and PhD projects! 
 
+Feel free
+to reach out if you're looking for guidance or collaboration!
 
-I am interested in memory-safety hardening and improving software resilience. 
-
-Always happy to pitch my ideas for master thesis students and PhD students. Contact me if you need help! 
 
 2025
+ * Long travels and great memories: our paper BLACKOUT was presented at ACM CCS 2025 in Taipei, Taiwan.
+   It was a pleasure to lead many discussions with industrial stakeholders and the CHERIoT community.
+I  believe we created strong synergy with our co-authors.  
+    * [BLACKOUT presentation](https://www.youtube.com/watch?v=YcWzuwbvdic), and
+      [the author version of the paper](../files/author_version/2025_blackout.pdf)
+    * Our artifact received all three badges! You can find at [blinded artifact](https://github.com/blindedcapabilities)
+    * [Making Software Both Memory-Safe and Leak-Proof: Introducing
+      BLACKOUT](https://blog.ssg.aalto.fi/2025/10/making-software-both-memory-safe-and.html)
+    
+  * I supervised Ruben Sturm during his summer internship at Ericsson Research.
+    It was a productive summer, and although the paper is still in progress, I’m
+    happy to share that he started his PhD at DistriNet!
+  
+ * Happy to give a webinar at hardwaresecurity.io, so the talk is [here](
+   https://www.youtube.com/watch?v=bbWczqMnRHA)
+
+ * Our paper "Do You Need Stack Canaries?" was presented at ARES 2025.
+  Thanks to JT for handling the presentation, and great job Hugo!
+  You can read the [author version of the
+  paper](../files/author_version/2025_ares-coalmine.pdf).
+  
+
  * Enjoyed so much at IEEE S&P'25. Discussing all the different security aspects
    made me happy! Impressed me how many people are working on CHERI
    architecture.  So Mon CHERI ❤️ can be found as an [author version of
