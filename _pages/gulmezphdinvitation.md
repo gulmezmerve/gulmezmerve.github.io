@@ -11,7 +11,7 @@ author_profile: false
 Welcome to my PhD defense
   </h1>
 <h1 style="color:#2c3e50; font-family:Arial, sans-serif;">
-Shining Light on Critical Gaps on Memory Safety:   <br>
+Shining Light on Critical Gaps in Memory Safety:   <br>
 From Programming Language to Hardware
 </h1>
 
@@ -33,24 +33,27 @@ From Programming Language to Hardware
 
   <br>
 
-  🕒 <strong>Time:</strong> 10:00-14.30 on December 10th, 2025. 
+  🕒 <strong>Time:</strong> 10:30-14.30 on December 10th, 2025. 
 
   <br>
 
-  🎥 Live stream
-
+  🎥 <a href="https://teams.microsoft.com/l/meetup-join/19:meeting_OThjN2NlMWUtNzBiMy00ZjMyLWI1NTItZDk1YzEwOTQwY2Mw@thread.v2/0?context=%7B%22Tid%22:%2292e84ceb-fbfd-47ab-be52-080c6b87953f%22,%22Oid%22:%223594cd17-5953-4511-8d53-8cfc799250e7%22,%22IsBroadcastMeeting%22:true,%22role%22:%22a%22%7D&btype=a&role=a" target="_blank">
+      Live Stream
+    </a>
   <br>
 
   🍽️ Reception 
 
   <p>
-    Please confirm attendance (online &amp; in-person) using this form:
+    Please confirm your attendance using this form if you plan to join in person  <br> 
+    (if you have not yet received an online invitation and would like one)
     <a href="https://forms.gle/jJYGfXubDEvnzTeK7" target="_blank">
       https://forms.gle/jJYGfXubDEvnzTeK7
     </a>
   </p>
 </div>
 
+You can read my thesis [here](/files/author_version/gulmez_thesis_final.pdf)
 
 <details>
   <summary style="cursor:pointer;">

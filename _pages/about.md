@@ -19,6 +19,7 @@ to reach out if you're looking for guidance or collaboration!
 
 
 2025
+ * My Ph.D. defense is scheduled for December 10, 2025. More information can be found [here](../_pages/gulmezphdinvitation.md)
  * Long travels and great memories: our paper BLACKOUT was presented at ACM CCS 2025 in Taipei, Taiwan.
    It was a pleasure to lead many discussions with industrial stakeholders and the CHERIoT community.
 I  believe we created strong synergy with our co-authors.  
