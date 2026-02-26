@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a security researcher at Ericsson and a PhD candidate at KU Leuven.
+I am a security researcher at Ericsson, actively participating in the ETSI memory-safety standardization.
 My research focuses on memory-safety hardening and improving software resilience.
 I'm always happy to pitch ideas for master's theses and PhD projects! 
 
@@ -19,6 +19,9 @@ to reach out if you're looking for guidance or collaboration!
 
 
 2025
+
+ * Finally, I am done with my PhD! Thanks to all the people around me who supported me during my journey! 
+My thesis is accessible [here](../files/author_version/gulmez_thesis_final.pdf)
  * My Ph.D. defense is scheduled for December 10, 2025. More information can be found [here](../_pages/gulmezphdinvitation.md)
  * Long travels and great memories: our paper BLACKOUT was presented at ACM CCS 2025 in Taipei, Taiwan.
    It was a pleasure to lead many discussions with industrial stakeholders and the CHERIoT community.
