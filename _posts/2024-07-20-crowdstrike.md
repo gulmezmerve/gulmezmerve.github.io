@@ -7,7 +7,6 @@ tags:
   - cheri
 ---
 
-
 The CrowdStrike outage shows that improving software resilience and availability is as important as detecting and mitigating memory-safety vulnerabilities.
 
 I am exploring these aspects in my PhD research. 
