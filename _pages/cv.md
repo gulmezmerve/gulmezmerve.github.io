@@ -11,28 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, [Distrinet Group](https://distrinet.cs.kuleuven.be), KU Leuven, 2024 (expected)
-* M.S. in Telecommunication Enginering [Istanbul Technical University](https://www.itu.edu.tr/en), 2020
-* B.S. in EEE, [Istanbul Technical University](https://www.itu.edu.tr/en), 2016
-* High School [Istanbul Ataturk Science High School](https://iafl.meb.k12.tr/), 2012
+* Ph.D in Computer Science, [Distrinet Group](https://distrinet.cs.kuleuven.be), KU Leuven, 2025
+* M.S. in Telecommunication Engineering, [Istanbul Technical University](https://www.itu.edu.tr/en), 2020
+* B.S. in Electrical & Electronics Engineering, [Istanbul Technical University](https://www.itu.edu.tr/en), 2016
+* High School, [Istanbul Atatürk Science High School](https://iafl.meb.k12.tr/), 2012
 
-Work experience
+Work Experience
 ======
-* 2019-2020: Research Intern
+* 2020–present: Security Researcher
+  * [Ericsson Research](https://www.ericsson.com/en/reports-and-papers/research-papers), Stockholm
+  * Memory safety hardening, software resilience, CHERI architecture
+  * ETSI memory-safety standardization
+* 2019–2020: Research Intern
   * [Telecommunication Circuit Lab](https://www.epfl.ch/labs/tcl/), EPFL
-* 2017-2019: Embedded Software Design Engineer
-  * GNSS Receiver Project, [Netas Company](https://netas.com.tr/?lang=en)
- 
+* 2017–2019: Embedded Software Design Engineer
+  * GNSS Receiver Project, [Netas](https://netas.com.tr/?lang=en)
+
 Awards
 ======
-* IEEE Comsoc Turkey Master Thesis Award
+* IEEE ComSoc Turkey Master Thesis Award
 * TUBITAK Master of Degree Scholarship
 
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+See the full list on the [Publications page](/publications/).
+
  

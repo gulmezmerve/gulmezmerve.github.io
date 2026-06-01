@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Merve GÜLMEZ"
 title_separator          : "-"
 name                     : &name "Merve"
-description              : &description "Researcher & PhD Student"
+description              : &description "Security Researcher at Ericsson"
 url                      : https://gulmezmerve.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gulmezmerve.github.io"
@@ -69,9 +69,13 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : Merve Gülmez
+  links:
+    - "https://orcid.org/0000-0002-3150-0687"
+    - "https://se.linkedin.com/in/merve-gülmez"
+    - "https://github.com/gulmezmerve"
+    - "https://scholar.google.com/citations?hl=en&user=TGwZ57oAAAAJ"
 
 
 # Analytics
@@ -85,7 +89,7 @@ analytics:
 author:
   name             : "Merve GÜLMEZ"
   avatar           : "IMG_6A1FB93544AA-1.jpeg"
-  bio              : "Researcher"
+  bio              : "Security Researcher at Ericsson Research. PhD in Computer Science, KU Leuven."
   location         : "Stockholm"
   employer         : "Ericsson"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=TGwZ57oAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F6u6KrzGTbdn2wfgbFyNDYkb24Q7yFvqm1AYrh_A_88PwwRnkswfJQ1nEQuktqCToXuhdgXel3enAna8aGZpDKqlUJOJ2ZGWh2cv9HcLNfOAs_Dk8A"
@@ -104,8 +108,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
-  orcid            :
+  linkedin         : merve-gülmez
+  orcid            : "https://orcid.org/0000-0002-3150-0687"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
